@@ -10,3 +10,5 @@
 | 2. Intro to OO | [Code](https://github.com/learn-co-students/nyc-web-students-040119/tree/master/02-intro-to-oo) | [Video](https://www.youtube.com/watch?v=oVvWYO92gvg&feature=youtu.be)|
 | 3. Object Relationships: One to Many | [Code](https://github.com/learn-co-students/nyc-web-students-040119/tree/master/03-oo-relations-one-to-many) | [Video](https://www.youtube.com/watch?v=0BX8PedZl9c&feature=youtu.be) |
 | 4. Object Relationships: Many to Many | [Code](https://github.com/learn-co-students/nyc-web-students-040119/tree/master/04-oo-many-to-many) | [Video](https://www.youtube.com/watch?v=v_MYk1Dp8n4&feature=youtu.be) |
+| 5. Inheritance | [Code](https://github.com/learn-co-students/nyc-web-students-040119) | [Video](https://www.youtube.com/watch?v=7sxQ14x5SVA&feature=youtu.be) |
+ 

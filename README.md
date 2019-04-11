@@ -13,5 +13,5 @@
 | 5. Inheritance | [Code](https://github.com/learn-co-students/nyc-web-students-040119) | [Video](https://www.youtube.com/watch?v=7sxQ14x5SVA&feature=youtu.be) |
 | 6. OO Review | Code | Video |
 | 7. Intro to SQL | [Code](https://github.com/learn-co-students/nyc-web-students-040119/tree/master/07-into-to-sql) | [Video](https://www.youtube.com/watch?v=paniXJk9SjY&feature=youtu.be) |
-| 8. Intro to ORMs | [Code](https://github.com/learn-co-students/nyc-web-students-040119/tree/master/08-intro-to-orms) | [Video] coming soon.. |
+| 8. Intro to ORMs | [Code](https://github.com/learn-co-students/nyc-web-students-040119/tree/master/08-intro-to-orms) | [Video](https://www.youtube.com/watch?v=RAuK0xOWVCA&feature=youtu.be) |
  

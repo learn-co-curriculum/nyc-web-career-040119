@@ -18,3 +18,8 @@
 | 10. ActiveRecord Migrations and Associations | [Code](https://github.com/learn-co-students/nyc-web-students-040119/tree/master/10-activerecord) | [Video](https://www.youtube.com/watch?v=QLO5OUjFQ1s&feature=youtu.be) | 
 | 11. Hashes & the Internet | [Code](https://github.com/learn-co-students/nyc-web-students-040119/tree/master/11-hashes-and-the-internet) | [Video](https://www.youtube.com/watch?v=pCFhMfOpPDQ&feature=youtu.be) |
 | 12. Gitignore & Hiding API keys | _no code_ | [Video](https://www.youtube.com/watch?v=5MEpPVREUjE&feature=youtu.be) |
+
+## Module 2
+| Topic            | Code                | Video                |
+| -----            | ----                | -----                |
+| 1. Rack & Intro to the Internet | [Code](https://github.com/learn-co-students/nyc-web-students-040119/tree/master/13-rack-intro) | [Video](https://youtu.be/WuTZIAvHpG0) |

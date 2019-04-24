@@ -25,3 +25,4 @@
 | 1. Rack & Intro to the Internet | [Code](https://github.com/learn-co-students/nyc-web-students-040119/tree/master/13-rack-intro) | [Video](https://youtu.be/WuTZIAvHpG0) |
 | 2. Sinatra MVC | [Code](https://github.com/learn-co-students/nyc-web-students-040119/tree/master/14-sinatra-mvc/rappers) | [Video](https://youtu.be/LbfPC0AgH7c) |
 | 3. Sinatra REST and Forms | [Code](https://github.com/learn-co-students/nyc-web-students-040119/tree/master/15-sinatra-REST/rappers) | [Video](https://youtu.be/PUmZmTIFCrc) |
+| 4. Sinatra Associations | [Code](https://github.com/learn-co-students/nyc-web-students-040119/tree/master/16-sinatra-associations) | [Video](https://youtu.be/ir9w3cNVsgA) |

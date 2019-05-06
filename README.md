@@ -30,3 +30,4 @@
 | 6. Rails Forms | [Code](https://github.com/learn-co-students/nyc-web-students-040119/tree/master/18-rails-forms/rappers-app) | [Video](https://youtu.be/qCaak-fppqU)
 | 7. Rails Associations | [Code](https://github.com/learn-co-students/nyc-web-students-040119/tree/master/19-rails-associations/rappers-app) | [Video](https://youtu.be/Wk5LLKgGl_w)
 | 8. Rails Review (Pets) | [Video](https://youtu.be/LlIpagmkJg8)
+| 9. Rails Review (Pets) | [Code](https://github.com/learn-co-students/nyc-web-students-040119/tree/master/21-rails-auth/rappers-app)| [Video](https://youtu.be/KwQ8sV6NRp8)

@@ -31,3 +31,4 @@
 | 7. Rails Associations | [Code](https://github.com/learn-co-students/nyc-web-students-040119/tree/master/19-rails-associations/rappers-app) | [Video](https://youtu.be/Wk5LLKgGl_w)
 | 8. Rails Review (Pets) | [Video](https://youtu.be/LlIpagmkJg8)
 | 9. Rails Sessions, Cookies & Authentication | [Code](https://github.com/learn-co-students/nyc-web-students-040119/tree/master/21-rails-auth/rappers-app)| [Video](https://youtu.be/KwQ8sV6NRp8)
+| 10. Rails Authorization | [Code](https://github.com/learn-co-students/nyc-web-students-040119/tree/master/22-rails-authorization/rappers-app)| [Video](https://youtu.be/bJNawaFT1uo)

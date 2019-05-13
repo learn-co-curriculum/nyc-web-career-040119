@@ -31,4 +31,11 @@
 | 7. Rails Associations | [Code](https://github.com/learn-co-students/nyc-web-students-040119/tree/master/19-rails-associations/rappers-app) | [Video](https://youtu.be/Wk5LLKgGl_w)
 | 8. Rails Review (Pets) | [Video](https://youtu.be/LlIpagmkJg8)
 | 9. Rails Sessions, Cookies & Authentication | [Code](https://github.com/learn-co-students/nyc-web-students-040119/tree/master/21-rails-auth/rappers-app)| [Video](https://youtu.be/KwQ8sV6NRp8)
-| 10. Rails Authorization | [Code](https://github.com/learn-co-students/nyc-web-students-040119/tree/master/22-rails-authorization/rappers-app)| [Video](https://youtu.be/bJNawaFT1uo)
+| 10. Rails Authorization | [Code](https://github.com/learn-co-students/nyc-web-students-040119/tree/master/22-rails-authorization/rappers-app)| [Video](https://youtu.be/bJNawaFT1uo) | 
+
+
+## Module 3
+| Topic            | Code                | Video                |
+| -----            | ----                | -----                |
+| 1. Intro to JS | [Code](https://github.com/learn-co-students/nyc-web-students-040119/tree/master/23-intro-to-js) | [Video](https://youtu.be/GNXkqqYHsvA) |
+| 2. Scopes Closures Callbacks | [Code](https://github.com/learn-co-students/nyc-web-students-040119/tree/master/24-scopes-closures-callbacks) | [Video](https://youtu.be/k9O1-TFsEjY) |

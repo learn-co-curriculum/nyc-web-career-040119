@@ -34,8 +34,11 @@
 | 10. Rails Authorization | [Code](https://github.com/learn-co-students/nyc-web-students-040119/tree/master/22-rails-authorization/rappers-app)| [Video](https://youtu.be/bJNawaFT1uo) | 
 
 
-## Module 3
+## Module 3 🤠
 | Topic            | Code                | Video                |
 | -----            | ----                | -----                |
-| 1. Intro to JS | [Code](https://github.com/learn-co-students/nyc-web-students-040119/tree/master/23-intro-to-js) | [Video](https://youtu.be/GNXkqqYHsvA) |
-| 2. Scopes Closures Callbacks | [Code](https://github.com/learn-co-students/nyc-web-students-040119/tree/master/24-scopes-closures-callbacks) | [Video](https://youtu.be/k9O1-TFsEjY) |
+| 1. Intro to JS ™️| [Code](https://github.com/learn-co-students/nyc-web-students-040119/tree/master/23-intro-to-js) | [Video](https://youtu.be/GNXkqqYHsvA) |
+| 2. Scopes Closures Callbacks 🔭 | [Code](https://github.com/learn-co-students/nyc-web-students-040119/tree/master/24-scopes-closures-callbacks) | [Video](https://youtu.be/k9O1-TFsEjY) |
+| 3. Intro to the DOM 🏡🌳 | [Code](https://github.com/learn-co-students/nyc-web-students-040119/tree/master/25-DOM-intro) | [Video](https://youtu.be/6x6Scoy13G8) |
+| 4. Intro to Events 🤔 | [Code](https://github.com/learn-co-students/nyc-web-students-040119/tree/master/26-intro-to-events) | [Video](https://youtu.be/pp-7E5xe4PM) |
+

@@ -44,4 +44,4 @@
 | 5. Task Lister Review ✅ | [Code](https://github.com/learn-co-students/nyc-web-students-040119/tree/master/27-task-lister-review) | [Video](https://youtu.be/uahZHxUmMSI) |
 | 6. Intro to Async 🐶🐕 | [Code](https://github.com/learn-co-students/nyc-web-students-040119/tree/master/28-intro-to-AJAX) | [Video](https://youtu.be/M-nFOJ877ts) |
 | 7. Rails API 🚂 | [Code](https://github.com/learn-co-students/nyc-web-students-040119/tree/master/30-rails-api) | [Video](https://youtu.be/jW_mjFO3c84) |
-
+| 8. ToyTale Review  | [Code](https://github.com/learn-co-students/nyc-web-students-040119/tree/master/31-js-review-toytale) | [Video](https://youtu.be/CTPzClLuFJY) |

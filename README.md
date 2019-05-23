@@ -45,3 +45,5 @@
 | 6. Intro to Async 🐶🐕 | [Code](https://github.com/learn-co-students/nyc-web-students-040119/tree/master/28-intro-to-AJAX) | [Video](https://youtu.be/M-nFOJ877ts) |
 | 7. Rails API 🚂 | [Code](https://github.com/learn-co-students/nyc-web-students-040119/tree/master/30-rails-api) | [Video](https://youtu.be/jW_mjFO3c84) |
 | 8. ToyTale Review  | [Code](https://github.com/learn-co-students/nyc-web-students-040119/tree/master/31-js-review-toytale) | [Video](https://youtu.be/CTPzClLuFJY) |
+| 9. intro to `this` and OOJS  | [This](https://github.com/learn-co-students/nyc-web-students-040119/tree/master/31-execution-context-this) [OOJS](https://github.com/learn-co-students/nyc-web-students-040119/tree/master/32-oojs-prototype) | [Video](https://youtu.be/fis0tqVOk0U) |
+

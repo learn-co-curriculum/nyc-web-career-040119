@@ -47,5 +47,5 @@
 | 8. ToyTale Review  | [Code](https://github.com/learn-co-students/nyc-web-students-040119/tree/master/31-js-review-toytale) | [Video](https://youtu.be/CTPzClLuFJY) |
 | 9. intro to `this` and OOJS  | [This](https://github.com/learn-co-students/nyc-web-students-040119/tree/master/31-execution-context-this) [OOJS](https://github.com/learn-co-students/nyc-web-students-040119/tree/master/32-oojs-prototype) | [Video](https://youtu.be/fis0tqVOk0U) |
 | 10. Big O | [Practice Problem](https://gist.github.com/alexgriff/0061bd3ff76c06341a62489899890b01) | [Video](https://www.youtube.com/watch?v=-qBv60OtFho&feature=youtu.be) |
-| 11. Recursion | [Practice Problems](https://github.com/alexgriff/wdf_recursion_exercises) | [Code](git@github.com:learn-co-curriculum/prep-for-redux.git) |
+| 11. Recursion | [Practice Problems](https://github.com/alexgriff/wdf_recursion_exercises) | [Video](https://www.youtube.com/watch?v=Px_nC68DHRA&feature=youtu.be) |
 

@@ -53,4 +53,4 @@
 
 | Topic            | Code                | Video                |
 | -----            | ----                | -----                |
-| 1. Components, Props, and Children | [Code](https://github.com/learn-co-students/nyc-web-students-040119/tree/master/33-react-components-props-children) | [Video p1](https://www.youtube.com/watch?v=aHf9DlXdU3I)/[Video p2]()|
+| 1. Components, Props, and Children | [Code](https://github.com/learn-co-students/nyc-web-students-040119/tree/master/33-react-components-props-children) | [Video p1](https://www.youtube.com/watch?v=aHf9DlXdU3I)/[Video p2](https://youtu.be/LIGzvCxnWhk)|

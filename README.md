@@ -15,7 +15,7 @@
 | 7. Intro to SQL | [Code](https://github.com/learn-co-students/nyc-web-students-040119/tree/master/07-into-to-sql) | [Video](https://www.youtube.com/watch?v=paniXJk9SjY&feature=youtu.be) |
 | 8. Intro to ORMs | [Code](https://github.com/learn-co-students/nyc-web-students-040119/tree/master/08-intro-to-orms) | [Video](https://www.youtube.com/watch?v=RAuK0xOWVCA&feature=youtu.be) |
 | 9. Dynamic ORMs and ActiveRecord::Welcome | [Code](https://github.com/learn-co-students/nyc-web-students-040119/tree/master/09-dynamic-orms) | [Video](https://www.youtube.com/watch?v=cSSaS2cQIbI&feature=youtu.be) |
-| 10. ActiveRecord Migrations and Associations | [Code](https://github.com/learn-co-students/nyc-web-students-040119/tree/master/10-activerecord) | [Video](https://www.youtube.com/watch?v=QLO5OUjFQ1s&feature=youtu.be) | 
+| 10. ActiveRecord Migrations and Associations | [Code](https://github.com/learn-co-students/nyc-web-students-040119/tree/master/10-activerecord) | [Video](https://www.youtube.com/watch?v=QLO5OUjFQ1s&feature=youtu.be) |
 | 11. Hashes & the Internet | [Code](https://github.com/learn-co-students/nyc-web-students-040119/tree/master/11-hashes-and-the-internet) | [Video](https://www.youtube.com/watch?v=pCFhMfOpPDQ&feature=youtu.be) |
 | 12. Gitignore & Hiding API keys | _no code_ | [Video](https://www.youtube.com/watch?v=5MEpPVREUjE&feature=youtu.be) |
 
@@ -31,7 +31,7 @@
 | 7. Rails Associations | [Code](https://github.com/learn-co-students/nyc-web-students-040119/tree/master/19-rails-associations/rappers-app) | [Video](https://youtu.be/Wk5LLKgGl_w)
 | 8. Rails Review (Pets) | [Video](https://youtu.be/LlIpagmkJg8)
 | 9. Rails Sessions, Cookies & Authentication | [Code](https://github.com/learn-co-students/nyc-web-students-040119/tree/master/21-rails-auth/rappers-app)| [Video](https://youtu.be/KwQ8sV6NRp8)
-| 10. Rails Authorization | [Code](https://github.com/learn-co-students/nyc-web-students-040119/tree/master/22-rails-authorization/rappers-app)| [Video](https://youtu.be/bJNawaFT1uo) | 
+| 10. Rails Authorization | [Code](https://github.com/learn-co-students/nyc-web-students-040119/tree/master/22-rails-authorization/rappers-app)| [Video](https://youtu.be/bJNawaFT1uo) |
 
 
 ## Module 3 🤠
@@ -53,4 +53,4 @@
 
 | Topic            | Code                | Video                |
 | -----            | ----                | -----                |
-| 1. Components, Props, and Children | [Code](https://github.com/learn-co-students/nyc-web-students-040119/tree/master/33-react-components-props-children) | [Video]() |
+| 1. Components, Props, and Children | [Code](https://github.com/learn-co-students/nyc-web-students-040119/tree/master/33-react-components-props-children) | [Video p1](https://www.youtube.com/watch?v=aHf9DlXdU3I)/[Video p2]()|

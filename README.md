@@ -49,3 +49,8 @@
 | 10. Big O | [Practice Problem](https://gist.github.com/alexgriff/0061bd3ff76c06341a62489899890b01) | [Video](https://www.youtube.com/watch?v=-qBv60OtFho&feature=youtu.be) |
 | 11. Recursion | [Practice Problems](https://github.com/alexgriff/wdf_recursion_exercises) | [Video](https://www.youtube.com/watch?v=Px_nC68DHRA&feature=youtu.be) |
 
+## Module 4 ⚛︎
+
+| Topic            | Code                | Video                |
+| -----            | ----                | -----                |
+| 1. Components, Props, and Children | [Code](https://github.com/learn-co-students/nyc-web-students-040119/tree/master/33-react-components-props-children) | [Video]() |

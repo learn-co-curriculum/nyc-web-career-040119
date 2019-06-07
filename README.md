@@ -57,3 +57,4 @@
 | 2. State, Events, Forms, Conditional Rendering | [Code](https://github.com/learn-co-students/nyc-web-students-040119/tree/master/34-react-state-events-forms-rendering) | [Video p1](https://www.youtube.com/watch?v=N2f-OkNkGwE)/[Video p2](https://youtu.be/gDbqwUFycLE)|
 |3. Lifting State and Controlled Components | [Code](https://github.com/learn-co-students/nyc-web-students-040119/tree/master/35-react-controlled-forms-lifting-state) | [Video](https://youtu.be/IZawUzYfApo) |
 |4. Component Lifecycle | [Code](https://github.com/learn-co-students/nyc-web-students-040119/tree/master/36-component-lifecycle) | [Video](https://youtu.be/Ungy7qBgqC0) |
+|5. Thinking in React (Hogwarts Review) | [Code](https://github.com/learn-co-students/nyc-web-students-040119/tree/master/37-hogwarts-review) | [Video](https://youtu.be/MXc9XqHeOo4) |

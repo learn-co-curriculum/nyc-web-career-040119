@@ -58,3 +58,7 @@
 |3. Lifting State and Controlled Components | [Code](https://github.com/learn-co-students/nyc-web-students-040119/tree/master/35-react-controlled-forms-lifting-state) | [Video](https://youtu.be/IZawUzYfApo) |
 |4. Component Lifecycle | [Code](https://github.com/learn-co-students/nyc-web-students-040119/tree/master/36-component-lifecycle) | [Video](https://youtu.be/Ungy7qBgqC0) |
 |5. Thinking in React (Hogwarts Review) | [Code](https://github.com/learn-co-students/nyc-web-students-040119/tree/master/37-hogwarts-review) | [Video](https://youtu.be/MXc9XqHeOo4) |
+|6a. Pokemon Review (Tim's Crew) | [Code](https://github.com/timothylevi/react-pokemon-searcher) | [Video](https://youtu.be/sQa3oxfV_SQ) |
+|6a. Pokemon Review (Sebastian's Crew) | [Code](https://github.com/Jeffrey-Marks/pokemon-searcher-2) | No video |
+|6a. Pokemon Review (Ali's Crew) | [Code](https://github.com/Rexman17/react-pokemon-searcher-nyc-web-career-040119) | No video |
+|7. Auth!!! | [Code](https://github.com/learn-co-students/nyc-web-students-040119/tree/master/38-jwt-auth) | [Video](https://youtu.be/L4dSwJpsv0Y) |

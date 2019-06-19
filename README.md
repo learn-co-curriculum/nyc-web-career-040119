@@ -63,3 +63,4 @@
 |6a. Pokemon Review (Ali's Crew) | [Code](https://github.com/Rexman17/react-pokemon-searcher-nyc-web-career-040119) | No video |
 |7. Auth!!! | [Code](https://github.com/learn-co-students/nyc-web-students-040119/tree/master/38-jwt-auth) | [Video p1](https://youtu.be/L4dSwJpsv0Y) / [Video p2](https://youtu.be/8POvUGNTaqM)|
 |8. React Router | [Code](https://github.com/learn-co-students/nyc-web-students-040119/tree/master/39-react-router) | [Video](https://youtu.be/kTdivFxbr54)|
+|9. Redux | [Code](https://github.com/learn-co-students/nyc-web-students-040119/tree/master/40-redux-intro) | [Video](https://youtu.be/zbovMX2Uh1M) |

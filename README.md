@@ -67,7 +67,7 @@
 |10. React and Redux (connect) | [Code](https://github.com/learn-co-students/nyc-web-students-040119/tree/master/41-react-redux) | [Video](https://youtu.be/dxKU9ArGVdw) |
 |11. Intermediate React (HOCs: withAuth, withRouter) Redux (thunk) | [Code](https://github.com/learn-co-students/nyc-web-students-040119/tree/master/42-intermediate-techniques) | [Video](https://youtu.be/3SYlcWebEPo) |
 
-** Module 5 
+## Module 5 👑
 
 | Topic            | Code                | Video                |
 | -----            | ----                | -----                |

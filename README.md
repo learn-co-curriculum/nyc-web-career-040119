@@ -71,4 +71,4 @@
 
 | Topic            | Code                | Video                |
 | -----            | ----                | -----                |
-|11. Action Cable | [Code](https://github.com/learn-co-students/nyc-web-students-040119/tree/master/43-actioncable/actioncable-starter-app) | [Video](https://youtu.be/6ebXuWt2y48) |
+|1. Action Cable | [Code](https://github.com/learn-co-students/nyc-web-students-040119/tree/master/43-actioncable/actioncable-starter-app) | [Video](https://youtu.be/6ebXuWt2y48) |
